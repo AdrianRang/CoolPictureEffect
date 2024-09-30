@@ -1,5 +1,5 @@
 # Cool Picture Effect thing
-![Video](vide.mp4)
+![Video](vide.mp4) AAAA doesnt work
 
 This is a cool side project.
 
